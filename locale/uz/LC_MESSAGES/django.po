@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-02-21 10:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+#: templates/index.html:9
+msgid "WHO ARE WE"
+msgstr "BIZ KIMMIZ"
+
+#: templates/index.html:12
+msgid ""
+
+"                        Established in 1977, Yilmaz Machine is a product "
+"sales, technical support,\n"
+"                        troubleshooting and spare parts sales to meet the "
+"needs of installation,\n"
+"                        maintenance, breakdown, spare parts and accessories "
+"of PVC aluminum profile processing machine.\n"
+"                    "
+msgstr ""
+"1977 yilda tashkil etilgan Yilmaz mashinasi mahsulotdirsavdo, texnik "
+"yordam"
+"muammolarni bartaraf etish va ehtiyot qismlarni sotish talablarini qondirish "
+"uchuno'rnatish ehtiyojlari"
+"xizmat ko'rsatish, buzish, ehtiyot qismlar va aksessuarlarPVX alyuminiy "
+"profilni qayta ishlash mashinasi"
+
+
+#: templates/index.html:19
+msgid ""
+"                        Yilmaz Machine, which continues its sales and "
+"production in different continents and countries"
+"                        with exported to more than 85 countries around the "
+"world, has a dealer network of more than 65"
+"                        countries around the world"
+"                    "
+msgstr ""
+"Sotuvni davom ettirayotgan Yilmaz mashinasiturli qit'alar va mamlakatlarda "
+"ishlab chiqarish"
+"Atrofdagi 85 dan ortiq mamlakatlarga eksport qilinadidunyo, 65 dan ortiq "
+"dilerlik tarmog'iga ega"
+"dunyo mamlakatlari"
+
+
+#: templates/index.html:26
+msgid ""
+"                        Yilmaz Machine has adopted the principle of "
+"development, using the technology of its solution"
+"                        partners in the field"
+"                        mechatronics, pneumatics, hydraulic hydropneumatics, "
+"providing research services,"
+"                        development, design, production, sales and after-"
+"sales service for changing"
+"                        needs."
+"                    "
+msgstr ""
+"Yilmaz mashinasi tamoyilini qabul qildi.ishlab chiqish, uni hal qilish "
+"texnologiyasidan foydalangan holda"
+" sohadagi hamkorlar"
+"mexatronika, pnevmatika, gidravlik gidropnevmatika,tadqiqot xizmatlarini "
+"ko'rsatish,"
+"ishlab chiqish, loyihalash, ishlab chiqarish, sotish va keyinalmashtirish "
+"uchun savdo xizmati"
+" kerak."
+
+
+#: templates/index.html:35
+msgid ""
+"                        Taking into account industry, social and individual "
+"interests with the rapid growth it"
+"                        provides, Yılmaz Makine invests in increasing its "
+"country, sector and volume"
+"                        production."
+"                    "
+msgstr ""
+"Sanoat, ijtimoiy va individuallikni hisobga olgan holdauning tez o'sishi "
+"qiziqadi"
+"Yilmaz Makina o'z darajasini oshirishga sarmoya kiritadimamlakat, sektor va "
+"hajm"
+"ishlab chiqarish."
+
+
+#: templates/index.html:42
+msgid ""
+"                        Yilmaz Machine, which builds its activities on "
+"honest, respectful, socially\n"
+"                        oriented, values human, superior quality and "
+"principles, will continue to serve you, our\n"
+"                        valued customers, with the principle of \"trust\".\n"
+"                    "
+msgstr ""
+"Faoliyatini asos qilib olgan Yilmaz mashinasihalol, hurmatli, ijtimoiy "
+"jihatdan"
+"yo'naltirilgan, insonni qadrlaydi, yuqori sifat vaprinsiplar, sizga xizmat "
+"qilishda davom etadi, bizning"
+" hurmatli mijozlar, \"ishonch\" tamoyili bilan."
+

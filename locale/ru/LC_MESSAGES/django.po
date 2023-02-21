@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: \n"
+"POT-Creation-Date: 2023-02-21 10:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+#: templates/index.html:9
+msgid "WHO ARE WE"
+msgstr "КТО МЫ"
+
+#: templates/index.html:12
+msgid ""
+
+"                        Established in 1977, Yilmaz Machine is a product "
+"sales, technical support,\n"
+"                        troubleshooting and spare parts sales to meet the "
+"needs of installation,\n"
+"                        maintenance, breakdown, spare parts and accessories "
+"of PVC aluminum profile processing machine.\n"
+"                    "
+msgstr ""
+
+"Yilmaz Machine, основанная в 1977 году, является продуктомпродажи, "
+"техническая поддержка,\n"
+" Устранение неполадок и продажа запасных частей в соответствии с "
+"необходимость установки,\n"
+"техническое обслуживание, ремонт, запасные части и аксессуарымашины для "
+"обработки алюминиевого профиля ПВХ.\n"
+"                    "
+
+
+#: templates/index.html:19
+msgid ""
+"                        Yilmaz Machine, which continues its sales and "
+"production in different continents and countries\n"
+"                        with exported to more than 85 countries around the "
+"world, has a dealer network of more than 65\n"
+"                        countries around the world\n"
+"                    "
+msgstr ""
+"Yilmaz Machine, которая продолжает продажи и производство на разных "
+"континентах и в разных странах\n"
+"с экспортом в более чем 85 стран мирамир, имеет дилерскую сеть более 65\n"
+"страны по всему миру\n"
+" "
+
+
+#: templates/index.html:26
+msgid ""
+"                        Yilmaz Machine has adopted the principle of "
+"development, using the technology of its solution\n"
+"                        partners in the field\n"
+"                        mechatronics, pneumatics, hydraulic hydropneumatics, "
+"providing research services,\n"
+"                        development, design, production, sales and after-"
+"sales service for changing\n"
+"                        needs.\n"
+"                    "
+msgstr ""
+"Yilmaz Machine приняла принцип разработка, использующая технологию ее "
+"решения\n"
+"партнеры в области\n"
+" мехатроника, пневматика, гидравлическая гидропневматика, предоставление "
+"исследовательских услуг,\n"
+"разработка, дизайн, производство, продажа и после-служба продаж по смене\n"
+" потребности.\n"
+" "
+
+
+#: templates/index.html:35
+msgid ""
+"                        Taking into account industry, social and individual "
+"interests with the rapid growth it\n"
+"                        provides, Yılmaz Makine invests in increasing its "
+"country, sector and volume\n"
+"                        production.\n"
+"                    "
+msgstr ""
+"С учетом отраслевых, социальных и индивидуальныхинтересы с быстрым ростом "
+"it\n"
+" обеспечивает, Yılmaz Makine инвестирует в увеличение своего страна, сектор "
+"и объем\n"
+"производство.\n"
+" "
+
+#: templates/index.html:42
+msgid ""
+
+"                        Yilmaz Machine, which builds its activities on "
+"honest, respectful, socially\n"
+"                        oriented, values human, superior quality and "
+"principles, will continue to serve you, our\n"
+"                        valued customers, with the principle of \"trust\".\n"
+"                    "
+msgstr ""
+" Yilmaz Machine , которая строит свою деятельность на честный, уважительный, "
+"социально\n"
+"ориентированный, ценит человека, превосходное качество ипринципы, будем "
+"продолжать служить вам, наши\n"
+"уважаемые клиенты, с принципом \"доверия\".\n"
+" "

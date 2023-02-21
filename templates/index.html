@@ -1,0 +1,52 @@
+{% extends 'layouts/base.html' %}
+{% load static i18n %}
+
+{% block content %}
+    <section class="about_us my-4 light">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 my-4">
+                    <h1>{% trans 'WHO ARE WE' %}</h1>
+                </div>
+                <p>
+                    {% blocktrans %}
+                        Established in 1977, Yilmaz Machine is a product sales, technical support,
+                        troubleshooting and spare parts sales to meet the needs of installation,
+                        maintenance, breakdown, spare parts and accessories of PVC aluminum profile processing machine.
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}
+                        Yilmaz Machine, which continues its sales and production in different continents and countries
+                        with exported to more than 85 countries around the world, has a dealer network of more than 65
+                        countries around the world
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}
+                        Yilmaz Machine has adopted the principle of development, using the technology of its solution
+                        partners in the field
+                        mechatronics, pneumatics, hydraulic hydropneumatics, providing research services,
+                        development, design, production, sales and after-sales service for changing
+                        needs.
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}
+                        Taking into account industry, social and individual interests with the rapid growth it
+                        provides, Yılmaz Makine invests in increasing its country, sector and volume
+                        production.
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}
+                        Yilmaz Machine, which builds its activities on honest, respectful, socially
+                        oriented, values human, superior quality and principles, will continue to serve you, our
+                        valued customers, with the principle of "trust".
+                    {% endblocktrans %}
+                </p>
+            </div>
+        </div>
+    </section>
+
+{% endblock %}
